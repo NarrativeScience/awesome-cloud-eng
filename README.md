@@ -7,6 +7,14 @@ Curated list of useful tools for Cloud Engineering
 | ----------------------------------------------- | ------------------------------------------------------ |
 | [Assume](https://github.com/SanderKnape/assume) | Switch your AWS profile                                |
 | [Awless](https://github.com/wallix/awless)      | Enhanced AWS cli, simplier interface and return values |
+| [PGCli](https://www.pgcli.com/)                 | Enhanced Postgres cli, contest aware auto complete and SQL syntax highlighting |
+
+## Make your terminal programs pretty
+| Link                                            | Description                                            |
+| ----------------------------------------------- | ------------------------------------------------------ |
+| [Rich](https://github.com/willmcgugan/rich)     | Add progress bars, tables or cool colors to your cli!  |
+| [PromptToolkit](https://python-prompt-toolkit.readthedocs.io/en/master/) | Make awesome interactive cli's! |
+
 
 ## AWS IAM
 | Link                                                                        | Description                                                      |
